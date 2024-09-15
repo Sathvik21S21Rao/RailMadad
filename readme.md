@@ -51,7 +51,7 @@ Admin/
 readme.md
 User/
     user.tsx
-
+```
 ## Sample UI
 
 ### User Side
