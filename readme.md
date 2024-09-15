@@ -55,11 +55,12 @@ User/
 ## Sample UI
 
 ### User Side
-![Complaint Form](https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image1.jpg)
-![Complaint Form with input][https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image2.jpg]
+
+![Complaint Form](https://raw.githubusercontent.com/Sathvik21S21Rao/RailMadad/main/Images/image1.jpg)
+![Complaint Form with input](https://raw.githubusercontent.com/Sathvik21S21Rao/RailMadad/main/Images/image2.jpg)
 
 ### Admin Side
-![Complaints list](https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image5.jpg)
-![Data Visualisation of Complaints](https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image7.jpg)
+![Complaints list](https://raw.githubusercontent.com/Sathvik21S21Rao/RailMadad/main/Images/image5.jpg)
+![Data Visualisation of Complaints](https://raw.githubusercontent.com/Sathvik21S21Rao/RailMadad/main/Images/image7.jpg)
 
 
