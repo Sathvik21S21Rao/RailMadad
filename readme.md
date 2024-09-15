@@ -52,4 +52,14 @@ readme.md
 User/
     user.tsx
 
-Feel free to customize the content as per your project's specific details and requirements.
+## Sample UI
+
+### User Side
+![Complaint Form](https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image1.jpg)
+![Complaint Form with input][https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image2.jpg]
+
+### Admin Side
+![Complaints list](https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image5.jpg)
+![Data Visualisation of Complaints](https://github.com/Sathvik21S21Rao/RailMadad/blob/main/Images/image7.jpg)
+
+
